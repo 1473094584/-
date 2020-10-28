@@ -10,4 +10,4 @@
 
 ##### 有点意思下边这张gif可以形容我的心情
 
-![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+![] (https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
